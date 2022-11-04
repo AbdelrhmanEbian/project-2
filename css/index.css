@@ -216,7 +216,7 @@ nav .main li {
   height: 80px;
   padding: 25px 0;
   /* text-align: center; */
-  transition: .5s;
+  transition: 0.5s;
   position: relative;
 }
 nav .main li:hover{
